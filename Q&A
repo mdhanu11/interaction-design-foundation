@@ -50,8 +50,9 @@ To optimize performance, I focus on reducing database calls by leveraging both c
 ------ 10. ------
 Could you please send us a sample of some production code you have written and are particularly proud of or find intriguing? Please also explain why you are proud of this code or why you find it interesting. I understand that you are likely under an NDA for some of your code, so it doesn't need to be executable. 
 
-I’m unable to share the code at this time, as my company places trust in me to keep the code within the organization. 
-However, if you have a specific task in mind, I’d be happy to implement it and share the relevant code with you upon completion.
+This is my personal project which I worked for my friend. Please check the below repository.
+
+https://github.com/mdhanu11/liftman-backend
 
 There was one project which was done in Laravel and they have written everything in the same calss. 
 I have implemented Service class to define the business logic and Repository class to define database queries.
